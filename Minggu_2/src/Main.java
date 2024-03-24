@@ -258,5 +258,7 @@ public class Main {
         System.out.println("BECAUSE WE WANNA DESTROY UR MENTAL");
         System.out.println("ONCE YOU ACCEPT MY REQUEST, YOU NEVER HAVE A CHANCE TO GO BACK HOME");
 
+        System.out.println("Dont worry, I have huge Power to counter that thing");
+
     }
 }
