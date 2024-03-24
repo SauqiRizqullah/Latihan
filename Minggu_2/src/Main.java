@@ -254,5 +254,9 @@ public class Main {
 
         System.out.println("UPDATE WOYYY!!!");
 
+        System.out.println("READY TO LOSE, HUH!!!");
+        System.out.println("BECAUSE WE WANNA DESTROY UR MENTAL");
+        System.out.println("ONCE YOU ACCEPT MY REQUEST, YOU NEVER HAVE A CHANCE TO GO BACK HOME");
+
     }
 }
