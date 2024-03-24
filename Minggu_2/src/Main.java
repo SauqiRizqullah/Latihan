@@ -252,5 +252,7 @@ public class Main {
         var newTer = nilaiAkh == 100 ? "Nyontoh ya?" : "Belajar gak?!!!";
         System.out.println(newTer);
 
+        System.out.println("UPDATE WOYYY!!!");
+
     }
 }
